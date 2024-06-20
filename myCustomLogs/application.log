@@ -1,0 +1,9 @@
+2024-06-20T13:59:16.531+02:00  INFO 11432 --- [main] com.example.Logger.LoggerApplication     : Starting LoggerApplication using Java 21.0.3 with PID 11432 (C:\Users\Claudio\IdeaProjects\Logger\target\classes started by Claudio in C:\Users\Claudio\IdeaProjects\Logger)
+2024-06-20T13:59:16.533+02:00  INFO 11432 --- [main] com.example.Logger.LoggerApplication     : No active profile set, falling back to 1 default profile: "default"
+2024-06-20T13:59:17.241+02:00  INFO 11432 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-06-20T13:59:17.251+02:00  INFO 11432 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-06-20T13:59:17.252+02:00  INFO 11432 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-20T13:59:17.297+02:00  INFO 11432 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-06-20T13:59:17.298+02:00  INFO 11432 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 729 ms
+2024-06-20T13:59:17.554+02:00  INFO 11432 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2024-06-20T13:59:17.560+02:00  INFO 11432 --- [main] com.example.Logger.LoggerApplication     : Started LoggerApplication in 1.434 seconds (process running for 1.715)
